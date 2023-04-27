@@ -1,4 +1,5 @@
 # phimhay
+[phimhay360.com](https://phimhay360.com)
 Phimhay360.com là một trang web cung cấp nội dung phim hay và phim lẻ trực tuyến. Với kho phim đa dạng và phong phú, phimhay360.com đã trở thành một địa chỉ quen thuộc với những người yêu thích điện ảnh trên toàn thế giới.
 
 Nội dung phim hay của trang web bao gồm các thể loại như hành động, phiêu lưu, kinh dị, tâm lý, hài hước, tình cảm, khoa học viễn tưởng và nhiều thể loại khác. Tất cả các bộ phim được chọn lọc kỹ càng để đảm bảo chất lượng và sự đa dạng cho khán giả.
